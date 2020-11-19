@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1221a39-055f-45c4-814e-3cd5d3d80f3d" name="Default Changelist" comment="" />
+    <list default="true" id="e1221a39-055f-45c4-814e-3cd5d3d80f3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/admin/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/admin/login.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +130,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1fiV4NW88xsDCbx6ziGvF2STTdO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -131,10 +138,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel_lte_newest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -164,6 +172,13 @@
       <workItem from="1597205679273" duration="462000" />
       <workItem from="1597213458019" duration="7517000" />
       <workItem from="1597237716867" duration="3114000" />
+      <workItem from="1597285724253" duration="14000" />
+      <workItem from="1597736045296" duration="1836000" />
+      <workItem from="1597752766657" duration="77000" />
+      <workItem from="1597823379293" duration="29000" />
+      <workItem from="1597823446121" duration="1096000" />
+      <workItem from="1598346050601" duration="509000" />
+      <workItem from="1601867052281" duration="244000" />
     </task>
     <servers />
   </component>
@@ -179,10 +194,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="715" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1597113140499" />
-    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1597027392254">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1597752842163">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1597027392254" />
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1597752842163" />
     <state x="142" y="6" key="SettingsEditor" timestamp="1597126385006">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

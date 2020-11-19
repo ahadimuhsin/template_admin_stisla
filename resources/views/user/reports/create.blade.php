@@ -100,7 +100,7 @@
         $('#province_id').on('change', function (){
             //melakukan request ke url /api/city dan mengirimkan data ke province_id
 
-            const _url = "/api/cities";
+            const _url = "{{ url('api/cities') }}";
 
             $.ajax({
                 dataType: "json",
